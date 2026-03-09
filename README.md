@@ -1,4 +1,4 @@
-# north_korea_railway_chinese_translation
+# A North Korea Railway Chinese Translation
 
 Map releases: https://github.com/Unnamed2964/north_korea_railway_chinese_translation/releases
 

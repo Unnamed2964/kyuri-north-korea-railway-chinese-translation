@@ -1,5 +1,11 @@
 # A North Korea Railway Chinese Translation
 
+Overview:
+<img width="1169" height="740" alt="image" src="https://github.com/user-attachments/assets/28d804d5-6aaf-44b5-93a6-14f7bc9ebcee" />
+<img width="992" height="1104" alt="image" src="https://github.com/user-attachments/assets/5745acd6-95d8-4d60-bfd0-c7091d54673a" />
+
+---
+
 Map releases: https://github.com/Unnamed2964/north_korea_railway_chinese_translation/releases
 
 ---
